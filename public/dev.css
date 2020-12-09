@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(6, 41, 53);
+  background-image: url("https://www.pedohurt.net/4c97036c-58b8-4ede-8b77-fafd831202f9-banner.png");
+  text-align: center;
+  color: white;
+}
+
+#white {
+  color: lightcyan;
+}
+
+#red {
+  color: red;
+}
